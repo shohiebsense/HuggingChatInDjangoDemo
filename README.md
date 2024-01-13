@@ -12,4 +12,4 @@ reference: https://github.com/Soulter/hugging-chat-api
 }
 ```
 
-![Sample](Screenshot 2024-01-13 at 16.00.17.png "Sample").
+![Sample](https://github.com/shohiebsense/HuggingChatInDjangoDemo/blob/main/Screenshot%202024-01-13%20at%2016.00.17.png)
